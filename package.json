@@ -1,11 +1,11 @@
 {
-  "name": "typedoc-plugin-mermaid-example-package",
+  "name": "typedoc-plugin-examples",
   "version": "1.0.0",
-  "description": "Example for using typedoc-plugin-mermaid.",
+  "description": "Example for using typedoc-plugins.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kamiazya/typedoc-plugin-mermaid.git"
+    "url": "https://github.com/kamiazya/typedoc-plugin-samples.git"
   },
   "author": "kamiazya <yuki@kamiazya.tech>",
   "license": "MIT",
