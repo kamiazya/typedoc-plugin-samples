@@ -219,10 +219,10 @@ typedoc-default-themes@^0.6.0:
     lunr "^2.3.6"
     underscore "^1.9.1"
 
-typedoc-plugin-mermaid@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/typedoc-plugin-mermaid/-/typedoc-plugin-mermaid-1.1.0.tgz#669c91408d9f58500cd8402091decdb361280b0e"
-  integrity sha512-sTaMwunMb7PlzY1Qp2cTvDPMlfZOPehiIv86y1vBDLxRKlwRlHyhHHFytpHvbOzq/v+t8CFTeHiQinzmk03q+g==
+typedoc-plugin-mermaid@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/typedoc-plugin-mermaid/-/typedoc-plugin-mermaid-1.1.1.tgz#0198b0115b72a0b7064f0e6a86ca0db111d949b9"
+  integrity sha512-Y4LF0fnhUMmgytSXiarDcOVnxDDVljihvfkxyy+1dOdpHbb1yOOpDb/N6UwxZtVI1YotjT+Rmw1ikroCcdQfaw==
 
 typedoc@^0.15.0:
   version "0.15.0"
