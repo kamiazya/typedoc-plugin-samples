@@ -17,7 +17,7 @@
     "dist/"
   ],
   "devDependencies": {
-    "typedoc": "^0.15.0",
+    "typedoc": "^0.15.3",
     "typedoc-plugin-mermaid": "^1.1.1",
     "typescript": "^3.4.5"
   }
